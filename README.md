@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on building different systems from ground up
-- 🌱 I’m currently learning more about: Microservices and fullstack development
+- 🔭 I’m currently working on building different systems from the ground up
+- 🌱 I’m currently learning more about: Microservices and full-stack development
 - 💬 Ask me about Systems programming, project management, and product management
 - 📫 How to reach me: https://www.linkedin.com/in/medhatomr/
